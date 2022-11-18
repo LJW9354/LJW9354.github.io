@@ -9,4 +9,4 @@ category: blog
 This is my first project
 
 
-View the entire tutorial on [GUI_Calculator](https://github.com/LJW9354/GUI-Calculator)
+View the project on [GUI_Calculator](https://github.com/LJW9354/GUI-Calculator)
