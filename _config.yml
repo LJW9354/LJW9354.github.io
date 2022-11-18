@@ -1,12 +1,12 @@
-title: Atlas Jekyll Theme
+title: Using Jekyll Theme
 desciption: >
-  A jekyll theme for personal website.
-email: yourusername@gmail.com
-baseurl: "/atlas-jekyll-theme" # the subpath of your site, e.g. /blog
+  Using Jekyll Theme in OSS project
+email: dlwodnjs9354@gmail.com
+baseurl: "/" # the subpath of your site, e.g. /blog
 #replace nrdybhu1.github.io with your domainname.com
-url: "https://nrdybhu1.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  Jekyll
+url: "https://LJW9354.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  LJW9354
 markdown: kramdown
 page_excerpts: true
 favicon: "/img/atlas.png"
