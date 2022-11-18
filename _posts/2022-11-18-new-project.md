@@ -5,7 +5,8 @@ author: LJW9354
 category: blog 
 ---
 
-{: .note .info} This is my first project
+{: .note .info} 
+This is my first project
 
 
 View the entire tutorial on [GUI_Calculator](https://github.com/LJW9354/GUI-Calculator)
